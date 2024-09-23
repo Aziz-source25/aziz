@@ -1,5 +1,9 @@
-# 💫 About Me:
-a person who has a dream
+# Name:
+Aziz Azman Faza
+# NIM:
+24343083
+#  Email:
+aa8700702@gmail.com
 
 
 ## 🌐 Socials:
